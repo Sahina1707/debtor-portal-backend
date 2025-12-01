@@ -1,0 +1,26 @@
+# Environment files
+.env
+*.env
+
+# SQLite database
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Django static & media (in case created inside backend)
+static/
+staticfiles/
+media/
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/

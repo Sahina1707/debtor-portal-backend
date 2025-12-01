@@ -1,0 +1,5 @@
+Account Number,National ID,Original Creditor,Outstanding Balance,Debt Type,Loan CONTRACT DATE,Name,Phone,Email
+ACC-10001,NID-123456789,test bank1,8000,Home Loan,15-01-24,John Smith,555221111,firozkhan@veriright.com
+ACC-10002,NID-123456789,XYZ Finance,1000,Personal Loan,20-02-24,Jane Doe,555221111,jane.test@email.com
+ACC-10003,NID-123456789,test back2,5000,Credit Line,26-11-25,Sachin,5552255555,sachin.test@email.com
+ACC-10004,NID-9898900000,test bank4,200,Credit Line,26-11-25,Test name,5552200000,sachin.test@email.com
