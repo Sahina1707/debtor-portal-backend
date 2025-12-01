@@ -53,3 +53,6 @@ urlpatterns = [
     # Receipt endpoints (admin only)
     path('admin/receipts/<str:filename>/', views.serve_payment_receipt, name='serve_payment_receipt'),
 ]
+
+
+
